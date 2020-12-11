@@ -4,7 +4,7 @@
 
 
 let bubbles = [];
-const startingBubbles = 10;
+const startingBubbles = 1;
 let highScore = startingBubbles; 
 let img;
 
